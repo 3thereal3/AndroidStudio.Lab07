@@ -9,4 +9,4 @@ This Flutter app allows users to interactively configure a container by adjustin
 - **Adjustable corner radius**: Set the radius of the top-right corner using a slider.
 - **User-friendly interface**: All configurations are displayed in real-time as you adjust the sliders.
 - **Modern design**: Sleek design with a transparent AppBar, white container, and blue sliders for a modern look.
-# AndroidStudio.Lab07
+
